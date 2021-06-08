@@ -6,15 +6,17 @@
 }
 #foto1{
     color: burlywood;
-    /* da regolare */
+  
     background-image: url("../immagini/monitor.jpg");
-    
+    height: 200px;
+    background-repeat: no-repeat;
 }
 #foto2{
     color: burlywood;
-    /* da regolare */
+    
     background-image: url("../immagini/graph.jpg");
-  
+    height: 200px;
+    background-repeat: no-repeat;
 }
 header{
     
@@ -37,5 +39,5 @@ td {
     width: 500px;
     }
 #booly{
-    width: 25%;
+    width: 50%;
     height: 25%;
