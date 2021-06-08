@@ -16,3 +16,9 @@
     background-image: url("../immagini/graph.jpg");
     
 }
+header{
+    
+    background-image: url("../immagini/pattern.png");
+    background-size: contain;
+    background-color: cyan;
+}
