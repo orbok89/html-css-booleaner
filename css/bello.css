@@ -23,6 +23,7 @@ header{
     background-image: url("../immagini/pattern.png");
     background-size: contain;
     background-color: cyan;
+    height: 200px;
 }
 /* tolto bordo */
 table {
@@ -39,5 +40,9 @@ td {
     width: 500px;
     }
 #booly{
-    width: 50%;
+    width: 25%;
     height: 25%;
+}
+.evidenza {
+    background-color: chartreuse;
+}
