@@ -4,3 +4,15 @@
 .piccolo{
     font-size:xx-small;
 }
+#foto1{
+    color: burlywood;
+    /* da regolare */
+    background-image: url("../immagini/monitor.jpg");
+    
+}
+#foto2{
+    color: burlywood;
+    /* da regolare */
+    background-image: url("../immagini/graph.jpg");
+    
+}
