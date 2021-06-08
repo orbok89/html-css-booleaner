@@ -14,7 +14,7 @@
     color: burlywood;
     /* da regolare */
     background-image: url("../immagini/graph.jpg");
-    
+  
 }
 header{
     
@@ -22,3 +22,20 @@ header{
     background-size: contain;
     background-color: cyan;
 }
+/* tolto bordo */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  /* colorato */
+.dispari {
+    background-color: Lightgreen;
+
+    }
+    /* allargato */
+td {
+    width: 500px;
+    }
+#booly{
+    width: 25%;
+    height: 25%;
